@@ -35,7 +35,7 @@ Predict masked tokens in the input sequence (MLM task).
 Predict whether the next sentence is a continuation of the current one (NSP task).
 Conclusion:
 
-In summary, training a BERT model on a simple wiki dataset for a masked language modeling task and a next sentence prediction task. The model architecture includes multiple encoder layers, and the training process involves minimizing the combined loss of MLM and NSP using the Adam optimizer. The use of synthetic data allows for controlled experimentation and showcases the end-to-end training process for a BERT model on these specific natural language processing tasks.
+Training a BERT model on a simple wiki dataset for a masked language modeling task and a next sentence prediction task. The model architecture includes multiple encoder layers, and the training process involves minimizing the combined loss of MLM and NSP using the Adam optimizer. The use of synthetic data allows for controlled experimentation and showcases the end-to-end training process for a BERT model on these specific natural language processing tasks.
 
 
 Web Application
