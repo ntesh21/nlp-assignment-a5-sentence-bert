@@ -1,0 +1,14 @@
+datasets==2.17.1
+fastparquet==2024.2.0
+Flask==3.0.2
+huggingface-hub==0.20.3
+numpy==1.26.4
+pandas==2.2.0
+spacy==3.7.3
+tokenizers==0.15.2
+torch==2.2.0+cu118
+torchaudio==2.2.0+cu118
+torchdata==0.7.1
+torchtext==0.17.0
+torchvision==0.17.0+cu118
+transformers==4.38.1
